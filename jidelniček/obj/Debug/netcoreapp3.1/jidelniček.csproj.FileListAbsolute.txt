@@ -1,0 +1,14 @@
+C:\Users\Gábinka\source\repos\jidelniček\jidelniček\bin\Debug\netcoreapp3.1\jidelniček.exe
+C:\Users\Gábinka\source\repos\jidelniček\jidelniček\bin\Debug\netcoreapp3.1\jidelniček.deps.json
+C:\Users\Gábinka\source\repos\jidelniček\jidelniček\bin\Debug\netcoreapp3.1\jidelniček.runtimeconfig.json
+C:\Users\Gábinka\source\repos\jidelniček\jidelniček\bin\Debug\netcoreapp3.1\jidelniček.runtimeconfig.dev.json
+C:\Users\Gábinka\source\repos\jidelniček\jidelniček\bin\Debug\netcoreapp3.1\jidelniček.dll
+C:\Users\Gábinka\source\repos\jidelniček\jidelniček\bin\Debug\netcoreapp3.1\jidelniček.pdb
+C:\Users\Gábinka\source\repos\jidelniček\jidelniček\obj\Debug\netcoreapp3.1\jidelniček.csproj.AssemblyReference.cache
+C:\Users\Gábinka\source\repos\jidelniček\jidelniček\obj\Debug\netcoreapp3.1\jidelniček.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gábinka\source\repos\jidelniček\jidelniček\obj\Debug\netcoreapp3.1\jidelniček.AssemblyInfoInputs.cache
+C:\Users\Gábinka\source\repos\jidelniček\jidelniček\obj\Debug\netcoreapp3.1\jidelniček.AssemblyInfo.cs
+C:\Users\Gábinka\source\repos\jidelniček\jidelniček\obj\Debug\netcoreapp3.1\jidelniček.csproj.CoreCompileInputs.cache
+C:\Users\Gábinka\source\repos\jidelniček\jidelniček\obj\Debug\netcoreapp3.1\jidelniček.dll
+C:\Users\Gábinka\source\repos\jidelniček\jidelniček\obj\Debug\netcoreapp3.1\jidelniček.pdb
+C:\Users\Gábinka\source\repos\jidelniček\jidelniček\obj\Debug\netcoreapp3.1\jidelniček.genruntimeconfig.cache

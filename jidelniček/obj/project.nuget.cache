@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TbTM9pRaIyZQZNNrHNKPG0wcMZzQuRiEQMXCQAjkGEHgaQhxRe5ccVjR3AMd+OhxbwXKyonqDoaHxOy1R4pI2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gábinka\\source\\repos\\jidelniček\\jidelniček\\jidelniček.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gábinka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
